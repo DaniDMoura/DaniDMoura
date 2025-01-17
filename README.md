@@ -69,10 +69,6 @@ me.say_hi()
   - Functions and basic OOP concepts
   - Simple problem-solving challenges
 
-<div align="center">
-  <h3>🐍 Contributions</h3>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
 
 ---
 
