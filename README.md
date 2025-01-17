@@ -1,56 +1,88 @@
-# Hi, I'm Danilo Santos 👋
+# Hi there! I'm Danilo Santos 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Passionate+about+coding;Always+learning+new+things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=6F3BF5&center=true&vCenter=true&width=435&lines=Python+Developer;Always+learning+new+things;Passionate+about+technology" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFnYjV4Y2x6Y2t0MmN5NmQxbXgwbzNyZnBnc2JyNnJ5NmRqcm9xdyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-🔧 **Passionate about coding and problem-solving**  
-📫 Reach me via: [danilocraft933@gmail.com](mailto:danilocraft933@gmail.com)
+## About Me 🚀
 
-## 🌐 Socials:
-<p align="left">
-  <a href="https://www.instagram.com/danilosmoura_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+```python
+class DaniloSantos:
+    def __init__(self):
+        self.name = "Danilo Santos"
+        self.role = "Python Developer"
+        self.language_spoken = ["pt_BR", "en_US"]
+        self.currently_learning = ["Python Basics", "Problem Solving"]
+        self.interests = ["Programming Logic", "Automation", "Technology"]
+        
+    def say_hi(self):
+        print("I'm on my way to becoming a great programmer!")
+
+me = DaniloSantos()
+me.say_hi()
+```
+
+## 🌐 Connect with Me
+
+<div align="left">
+  <a href="mailto:danilocraft933@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-</p>
+  <a href="https://www.instagram.com/danilosmoura_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
 
----
-
-## 🛠️ Tech Stack:
-
-<p align="left">
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <!-- VS Code -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
-
----
-
-<details>
-<summary><h2>📊 GitHub Stats (Click to Expand)</h2></summary>
+## 💻 Tech Stack
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
+</div>
 
-### 📈 General Stats
-<img src="https://github-readme-stats.vercel.app/api?username=danilosmoura&show_icons=true&theme=radical" alt="Danilo's GitHub Stats" />
+## 🎯 Current Focus
 
-### 🥇 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosmoura&layout=compact&theme=radical" alt="Top Languages" />
+- 🐍 Learning Python fundamentals
+- 🧠 Developing problem-solving skills
+- 📚 Working on small Python projects
+- 💡 Understanding programming concepts
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=danilosmoura&theme=radical&row=1&column=6" alt="trophy" />
+## 📊 GitHub Stats
 
-### 🐍 Contribution Snake
-<img src="https://github.com/danilosmoura/danilosmoura/blob/output/github-contribution-grid-snake.gif" alt="snake" />
-
+<details>
+<summary>Click to expand!</summary>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=danilosmoura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilosmoura&theme=tokyonight&hide_border=true" height="150">
 </div>
 </details>
 
+## 🌱 My Learning Journey
+
+- Started learning Python as my first programming language
+- Currently focusing on:
+  - Basic syntax and data types
+  - Control structures (if/else, loops)
+  - Functions and basic OOP concepts
+  - Simple problem-solving challenges
+
+<div align="center">
+  <h3>🐍 Contributions</h3>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=danilosmoura&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Learning+and+growing+every+day!;Feel+free+to+connect+:)">
+</h3>
 ---
 
 <p align="center">
