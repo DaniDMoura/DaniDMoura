@@ -70,7 +70,7 @@ me.say_hi()
   - Simple problem-solving challenges
 
 
----
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=danilosmoura&style=for-the-badge&color=blueviolet" alt="Profile Views" />
@@ -79,7 +79,7 @@ me.say_hi()
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Learning+and+growing+every+day!;Feel+free+to+connect+:)">
 </h3>
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danilosmoura&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
