@@ -1,15 +1,15 @@
 # Hi, I'm Danilo Santos.
 
-- 🔭 I'm currently working as Software Developer focused on Python
+- 🔭 I'm currently working as Software Developer focused on <b>Python<b>
 - 📫 How to reach me: danilocraft933@gmail.com
 - 📊 Learning Data Analysis and SQL Server
 
-### Connect with me:
+#### <i>Connect with me<i>:
 [![Instagram](https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logoColor=fff&logo=instagram)](https://instagram.com/danilosmoura_)
 [![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilocraft933@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logoColor=fff&logo=github)](https://github.com/DaniloDMoura)
 
-### Tech Stack:
+#### <i>Tech Stack<i>:
 ![Python](https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-7C3AED?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-8B5CF6?style=for-the-badge&logo=pandas&logoColor=white)
