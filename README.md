@@ -10,12 +10,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logoColor=fff&logo=github)](https://github.com/DaniloDMoura)
 
 #### <i>Tech Stack<i>:
-![Python](https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-7C3AED?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-8B5CF6?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-6D28D9?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-8B5CF6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-7C3AED?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-6D28D9?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white)
 
 <details>
   <summary> <b> Some stats </b> <i>(Click to expand)</i> </summary>
