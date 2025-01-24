@@ -1,6 +1,6 @@
 # Hi, I'm Danilo Santos.
 
-- 🔭 I'm currently working as Software Developer focused on <b>Python<b>
+- 🔭 I'm currently working on projects focused on Python development
 - 📫 How to reach me: danilocraft933@gmail.com
 - 📊 Learning Data Analysis and SQL Server
 
