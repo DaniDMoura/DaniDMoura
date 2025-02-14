@@ -9,8 +9,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-092E20?style=for-the-badge&logoColor=fff&logo=instagram)](https://instagram.com/danilosmoura_)
 [![Gmail](https://img.shields.io/badge/Gmail-092E20?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilocraft933@gmail.com)   
 
-
-
 #### <i>Tech Stack<i>:  
 ![Python](https://img.shields.io/badge/Python-092E20?style=for-the-badge&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
