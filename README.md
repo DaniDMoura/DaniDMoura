@@ -1,8 +1,8 @@
 # Hi, I'm Danilo Santos.
 
-- 🔭 I'm currently working on projects focused on Python development  
-- 📫 How to reach me:  ``Danilocraft933@gmail.com``  
-- 🌻 Exploring Django and PostgreSQL for Scalable Web Applications  
+-  I'm currently working on projects focused on Python development  
+-  How to reach me:  ``Danilocraft933@gmail.com``  
+-  Exploring Django and PostgreSQL for Scalable Web Applications  
 
 #### <i>Connect with me<i>:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-092E20?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-santos-79008625b/) 
