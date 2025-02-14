@@ -14,11 +14,7 @@
 #### <i>Tech Stack<i>:  
 ![Python](https://img.shields.io/badge/Python-092E20?style=for-the-badge&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-092E20?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-092E20?style=for-the-badge&logo=jupyter&logoColor=white) 
-![Selenium](https://img.shields.io/badge/Selenium-092E20?style=for-the-badge&logo=selenium&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-092E20?style=for-the-badge&logo=git&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-092E20?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-092E20?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-092E20?style=for-the-badge&logo=jupyter&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-092E20?style=for-the-badge&logo=selenium&logoColor=white)  ![Git](https://img.shields.io/badge/Git-092E20?style=for-the-badge&logo=git&logoColor=white) 
 
 <details>
   <summary> <b> Some stats </b> <i>(Click to expand)</i> </summary>
