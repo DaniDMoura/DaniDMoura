@@ -1,13 +1,13 @@
 # Hi, I'm Danilo Santos.
 
 -  I'm currently working on projects focused on Python development  
--  How to reach me:  ``Danilocraft933@gmail.com``  
+-  How to reach me:  ``mouradanilo061@gmail.com``  
 -  Exploring Django and PostgreSQL for Scalable Web Applications  
 
 #### <i>Connect with me<i>:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-092E20?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-santos-79008625b/) 
 [![Instagram](https://img.shields.io/badge/Instagram-092E20?style=for-the-badge&logoColor=fff&logo=instagram)](https://instagram.com/danilosmoura_)
-[![Gmail](https://img.shields.io/badge/Gmail-092E20?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilocraft933@gmail.com)   
+[![Gmail](https://img.shields.io/badge/Gmail-092E20?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouradanilo061@gmail.com)   
 
 #### <i>Tech Stack<i>:  
 ![Python](https://img.shields.io/badge/Python-092E20?style=for-the-badge&logo=python&logoColor=white) 
