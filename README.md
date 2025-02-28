@@ -1,15 +1,3 @@
-# Hi, I'm Danilo Santos.
-
--  I'm currently working on projects focused on Python development  
--  How to reach me:  ``mouradanilo061@gmail.com``  
--  Exploring Django and PostgreSQL for Scalable Web Applications
-
-  
-#### <i>Connect with me<i>:  
-[![Instagram](https://img.shields.io/badge/Instagram-%230099CC.svg?style=for-the-badge&logo=instagram&logoColor=white&colorA=%230099CC&colorB=%23006699)](https://instagram.com/danilosmoura_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230099CC.svg?style=for-the-badge&logo=linkedin&logoColor=white&colorA=%230099CC&colorB=%23006699)](https://www.linkedin.com/in/danilo-santos-79008625b/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%230099CC.svg?style=for-the-badge&logo=gmail&logoColor=white&colorA=%230099CC&colorB=%23006699)](mailto:mouradanilo061@gmail.com)   
-
 #### <i>Tech Stack<i>:  
 
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&colorA=%230099CC&colorB=%23006699" />
@@ -20,7 +8,7 @@
 <img src="https://img.shields.io/badge/Selenium-%233776AB.svg?style=for-the-badge&logo=selenium&logoColor=white&colorA=%230099CC&colorB=%23006699" />
 <img src="https://img.shields.io/badge/Git-%233776AB.svg?style=for-the-badge&logo=git&logoColor=white&colorA=%230099CC&colorB=%23006699" />
 
-<br>  
+<p></p> 
 
 <details>
   <summary> <b> Some stats </b> <i>(Click to expand)</i> </summary>
@@ -44,4 +32,5 @@
 </p>
 <hr>
 </details>
+
 
