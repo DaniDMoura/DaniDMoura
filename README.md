@@ -2,17 +2,25 @@
 
 -  I'm currently working on projects focused on Python development  
 -  How to reach me:  ``mouradanilo061@gmail.com``  
--  Exploring Django and PostgreSQL for Scalable Web Applications  
+-  Exploring Django and PostgreSQL for Scalable Web Applications
 
+  
 #### <i>Connect with me<i>:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-092E20?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-santos-79008625b/) 
-[![Instagram](https://img.shields.io/badge/Instagram-092E20?style=for-the-badge&logoColor=fff&logo=instagram)](https://instagram.com/danilosmoura_)
-[![Gmail](https://img.shields.io/badge/Gmail-092E20?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouradanilo061@gmail.com)   
+[![Instagram](https://img.shields.io/badge/Instagram-%230099CC.svg?style=for-the-badge&logo=instagram&logoColor=white&colorA=%230099CC&colorB=%23006699)](https://instagram.com/danilosmoura_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230099CC.svg?style=for-the-badge&logo=linkedin&logoColor=white&colorA=%230099CC&colorB=%23006699)](https://www.linkedin.com/in/danilo-santos-79008625b/) 
+[![Gmail](https://img.shields.io/badge/Gmail-%230099CC.svg?style=for-the-badge&logo=gmail&logoColor=white&colorA=%230099CC&colorB=%23006699)](mailto:mouradanilo061@gmail.com)   
 
 #### <i>Tech Stack<i>:  
-![Python](https://img.shields.io/badge/Python-092E20?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-092E20?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-092E20?style=for-the-badge&logo=jupyter&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-092E20?style=for-the-badge&logo=selenium&logoColor=white)  ![Git](https://img.shields.io/badge/Git-092E20?style=for-the-badge&logo=git&logoColor=white) 
+
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+<img src="https://img.shields.io/badge/Django-%233776AB.svg?style=for-the-badge&logo=django&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+<img src="https://img.shields.io/badge/FastAPI-%233776AB.svg?style=for-the-badge&logo=fastapi&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+<img src="https://img.shields.io/badge/SQL%20Server-%233776AB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+<img src="https://img.shields.io/badge/Jupyter-%233776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+<img src="https://img.shields.io/badge/Selenium-%233776AB.svg?style=for-the-badge&logo=selenium&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+<img src="https://img.shields.io/badge/Git-%233776AB.svg?style=for-the-badge&logo=git&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+
+<br>  
 
 <details>
   <summary> <b> Some stats </b> <i>(Click to expand)</i> </summary>
