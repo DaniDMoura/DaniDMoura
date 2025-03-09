@@ -15,10 +15,6 @@
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&colorA=%230099CC&colorB=%23006699" />
 <img src="https://img.shields.io/badge/Django-%233776AB.svg?style=for-the-badge&logo=django&logoColor=white&colorA=%230099CC&colorB=%23006699" />
 <img src="https://img.shields.io/badge/FastAPI-%233776AB.svg?style=for-the-badge&logo=fastapi&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-<img src="https://img.shields.io/badge/SQL%20Server-%233776AB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-<img src="https://img.shields.io/badge/Jupyter-%233776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-<img src="https://img.shields.io/badge/Selenium-%233776AB.svg?style=for-the-badge&logo=selenium&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-<img src="https://img.shields.io/badge/Git-%233776AB.svg?style=for-the-badge&logo=git&logoColor=white&colorA=%230099CC&colorB=%23006699" />
 
 <p></p>
 
