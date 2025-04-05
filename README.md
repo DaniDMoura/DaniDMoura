@@ -10,14 +10,30 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230099CC.svg?style=for-the-badge&logo=linkedin&logoColor=white&colorA=%230099CC&colorB=%23006699)](https://www.linkedin.com/in/danilo-santos-79008625b/) 
 [![Gmail](https://img.shields.io/badge/Gmail-%230099CC.svg?style=for-the-badge&logo=gmail&logoColor=white&colorA=%230099CC&colorB=%23006699)](mailto:mouradanilo061@gmail.com)   
 
-#### <i>Tech Stack<i>:  
-
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-<img src="https://img.shields.io/badge/Django-%233776AB.svg?style=for-the-badge&logo=django&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-<img src="https://img.shields.io/badge/FastAPI-%233776AB.svg?style=for-the-badge&logo=fastapi&logoColor=white&colorA=%230099CC&colorB=%23006699" />
 
 <p></p>
 
+<h4><i>Technologies & Tools</i></h4>
+<p>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/Django-%233776AB.svg?style=for-the-badge&logo=django&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/FastAPI-%233776AB.svg?style=for-the-badge&logo=fastapi&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%233776AB.svg?style=for-the-badge&logo=postgresql&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/SQL_Server-%233776AB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/Redis-%233776AB.svg?style=for-the-badge&logo=redis&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/Docker-%233776AB.svg?style=for-the-badge&logo=docker&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/Git-%233776AB.svg?style=for-the-badge&logo=git&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/Selenium-%233776AB.svg?style=for-the-badge&logo=selenium&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/HTML5-%233776AB.svg?style=for-the-badge&logo=html5&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/CSS3-%233776AB.svg?style=for-the-badge&logo=css3&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/Jupyter-%233776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/VS_Code-%233776AB.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/PyCharm-%233776AB.svg?style=for-the-badge&logo=pycharm&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/NeoVim-%233776AB.svg?style=for-the-badge&logo=neovim&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/Bash-%233776AB.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/Linux-%233776AB.svg?style=for-the-badge&logo=linux&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+  <img src="https://img.shields.io/badge/Ubuntu-%233776AB.svg?style=for-the-badge&logo=ubuntu&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+</p>
 
   
 
@@ -30,7 +46,7 @@
   </a>
   
 ---
-  
+
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
       <img align="center" src="https://github-profile-trophy.vercel.app/?theme=discord&margin-w=8&column=6&username=DaniDMoura" alt="Trophies" />
@@ -40,6 +56,8 @@
 --- 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDMoura&layout=compact&langs_count=999&theme=midnight-purple" alt="Langs" />
-</p>
-<hr>
+
+---
+
+
 </details>
