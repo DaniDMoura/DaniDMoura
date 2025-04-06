@@ -38,20 +38,20 @@
   <br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaniDMoura&show_icons=true&count_private=true&theme=midnight-purple&hide=issues" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaniDMoura&show_icons=true&count_private=true&theme=graywhite-purple&hide=issues" />
   </a>
   
 ---
 
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=discord&margin-w=8&column=6&username=DaniDMoura" alt="Trophies" />
+      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=graywhite&margin-w=8&column=6&username=DaniDMoura" alt="Trophies" />
     </a>
   </p>
   
 --- 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDMoura&layout=compact&langs_count=999&theme=midnight-purple" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDMoura&layout=compact&langs_count=999&theme=graywhite" alt="Langs" />
 
 ---
 
