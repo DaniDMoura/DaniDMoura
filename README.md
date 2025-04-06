@@ -5,36 +5,32 @@
 -  Exploring Django and PostgreSQL for Scalable Web Applications
 
   
-#### <i>Connect with me<i>:  
-[![Instagram](https://img.shields.io/badge/Instagram-%230099CC.svg?style=for-the-badge&logo=instagram&logoColor=white&colorA=%230099CC&colorB=%23006699)](https://instagram.com/danilosmoura_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230099CC.svg?style=for-the-badge&logo=linkedin&logoColor=white&colorA=%230099CC&colorB=%23006699)](https://www.linkedin.com/in/danilo-santos-79008625b/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%230099CC.svg?style=for-the-badge&logo=gmail&logoColor=white&colorA=%230099CC&colorB=%23006699)](mailto:mouradanilo061@gmail.com)   
-
-
-<p></p>
+#### <i>Connect with me</i>: 
+[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF)](https://instagram.com/danilosmoura_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF)](https://www.linkedin.com/in/danilo-santos-79008625b/) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF)](mailto:mouradanilo061@gmail.com)
 
 <h4><i>Technologies & Tools</i></h4>
 <p>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/Django-%233776AB.svg?style=for-the-badge&logo=django&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/FastAPI-%233776AB.svg?style=for-the-badge&logo=fastapi&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%233776AB.svg?style=for-the-badge&logo=postgresql&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/SQL_Server-%233776AB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/Redis-%233776AB.svg?style=for-the-badge&logo=redis&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/Docker-%233776AB.svg?style=for-the-badge&logo=docker&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/Git-%233776AB.svg?style=for-the-badge&logo=git&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/Selenium-%233776AB.svg?style=for-the-badge&logo=selenium&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/HTML5-%233776AB.svg?style=for-the-badge&logo=html5&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/CSS3-%233776AB.svg?style=for-the-badge&logo=css3&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/Jupyter-%233776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/VS_Code-%233776AB.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/PyCharm-%233776AB.svg?style=for-the-badge&logo=pycharm&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/NeoVim-%233776AB.svg?style=for-the-badge&logo=neovim&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/Bash-%233776AB.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/Linux-%233776AB.svg?style=for-the-badge&logo=linux&logoColor=white&colorA=%230099CC&colorB=%23006699" />
-  <img src="https://img.shields.io/badge/Ubuntu-%233776AB.svg?style=for-the-badge&logo=ubuntu&logoColor=white&colorA=%230099CC&colorB=%23006699" />
+<img src="https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/Django-%23000000.svg?style=for-the-badge&logo=django&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/FastAPI-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/SQL_Server-%23000000.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/Redis-%23000000.svg?style=for-the-badge&logo=redis&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/Selenium-%23000000.svg?style=for-the-badge&logo=selenium&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/HTML5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/CSS3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/Jupyter-%23000000.svg?style=for-the-badge&logo=jupyter&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/VS_Code-%23000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/NeoVim-%23000000.svg?style=for-the-badge&logo=neovim&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
+<img src="https://img.shields.io/badge/Ubuntu-%23000000.svg?style=for-the-badge&logo=ubuntu&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF" />
 </p>
-
   
 
 <details>
