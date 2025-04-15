@@ -1,8 +1,8 @@
 # Hi, I'm Danilo Santos.
 
--  I'm currently working on projects focused on Python development  
--  How to reach me:  `mouradanilo061@gmail.com`
--  Exploring Django and PostgreSQL for Scalable Web Applications
+- I'm currently working on projects focused on software development
+- How to reach me: mouradanilo061@gmail.com
+- Building a career grounded in problem-solving and continuous learning
 
   
 #### <i>Connect with me</i>: 
