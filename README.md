@@ -1,4 +1,4 @@
-# Hi, I'm Danilo Santos.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FFFFFF&size=30&lines=Hi!+I'm+Danilo+Santos)](https://git.io/typing-svg)
 
 - I'm currently working on projects focused on software development
 - How to reach me: mouradanilo061@gmail.com
