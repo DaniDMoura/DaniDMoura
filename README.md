@@ -13,6 +13,8 @@
 <br>
 <details>
   <summary> <b> Some stats </b> <i>(Click to expand)</i> </summary>
+
+  <br>
   
   ![3D Snake](./profile-3d-contrib/profile-green-animate.svg)
 
