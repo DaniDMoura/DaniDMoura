@@ -16,7 +16,7 @@
 
   <br>
   
-  ![3D Snake](./profile-3d-contrib/profile-green-animate.svg)
+  ![3D Snake](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 </details>
