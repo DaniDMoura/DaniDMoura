@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FFFFFF&size=30&lines=Hi!+I'm+Danilo+Santos+:D)](https://git.io/typing-svg)
 
 - I'm currently working on projects focused on software development
-- How to reach me: https://danilomoura.site
+- How to reach me: [danilomoura.site](https://www.danilomoura.site)
 - Building a career grounded in problem-solving and continuous learning
 
 
