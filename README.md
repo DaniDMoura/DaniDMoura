@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FFFFFF&size=30&lines=Hi!+I'm+Danilo+Santos+:D)](https://git.io/typing-svg)
 
-- I am currently pursuing a Bachelor’s degree in Information Systems at the Universidade Federal Fluminense (UFF)
+- Incoming Information Systems student at UFF (2026.2)
 - How to reach me: [danilomoura.site](https://www.danilomoura.site)
 - Building a career grounded in problem-solving and continuous learning
 
