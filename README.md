@@ -8,7 +8,7 @@
 #### <i>Connect with me</i>: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF)](https://instagram.com/danilosmoura_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF)](https://www.linkedin.com/in/danilo-santos-79008625b/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF)](mailto:mouradanilo061@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=black&colorA=%23F9F6EE&colorB=%23FFFFFF)](mailto:me@danilomoura.site)
 
 <br>
 <details>
