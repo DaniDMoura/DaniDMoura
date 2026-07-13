@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FFFFFF&size=30&lines=Hi!+I'm+Danilo+Santos+:D)](https://git.io/typing-svg)
 
-- Incoming Information Systems student at UFF (2026.2)
-- How to reach me: [danilomoura.site](https://www.danilomoura.site)
+- Undergraduate in Information Systems at Universidade Federal Fluminense
+- How to reach me: [danilomoura.dev.br](https://www.danilomoura.dev.br)
 - Building a career grounded in problem-solving and continuous learning
 
 
