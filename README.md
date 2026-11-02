@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FFFFFF&size=30&lines=Hi!+I'm+Danilo+Santos+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FFFFFF&size=30&lines=Hi!+I'm+Danilo+Moura+:D)](https://git.io/typing-svg)
 
 - Undergraduate in Information Systems at Universidade Federal Fluminense
 - How to reach me: [danilomoura.me](https://www.danilomoura.me)
