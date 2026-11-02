@@ -16,7 +16,7 @@
 
   <br>
   
-  ![3D Profile](./profile-3d-contrib/profile-green.svg)
+  ![3D Profile](./profile-3d-contrib/profile-night-green.svg)
 
 
 </details>
